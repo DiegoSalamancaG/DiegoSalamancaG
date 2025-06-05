@@ -47,7 +47,9 @@ Soy un desarrollador web con un fuerte interés en el desarrollo **Full Stack**.
 ## 🧩 Proyectos Destacados
 
 - ✨ *Proyecto e-commerce* – Proyecto realizado con Node.js, MongoDB y Vue para simular una pagina de compra, con carrito de compra e inicio de sesiones para los diversos usuarios.
+  *https://github.com/DiegoSalamancaG/Proyecto07*
 - ⚙️ *To-Do List* – Proyecto de practica API Rest, utilizando Node.js y MySql para generar una pequeña lista de tareas pendientes y completadas.
+  *https://github.com/DiegoSalamancaG/pruebaTecnica*
 
 ## 🎯 Objetivos Profesionales
 
