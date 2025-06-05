@@ -4,12 +4,22 @@
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador web con un fuerte interés en el desarrollo **Full Stack**. Me destaco por mi habilidad para trabajar en equipo, resolver problemas y aprender nuevas tecnologías. Busco continuamente mejorar mis habilidades técnicas y aportar valor en proyectos que generen un impacto positivo.
+Soy un desarrollador web con un fuerte interés en el desarrollo **Full Stack**, combinando habilidades tanto en frontend como backend. Me destaco por mi capacidad para resolver problemas, trabajar en equipo y aprender nuevas tecnologías de forma continua.
+
+🧠 Me enfoco en aplicar **buenas prácticas de programación**, como:
+- Escribir código limpio, legible y bien documentado.
+- Uso de principios SOLID y patrones de diseño.
+- Control de versiones con Git y trabajo colaborativo en ramas.
+
+🔐 Además, tengo conciencia sobre la **seguridad en el desarrollo**, aplicando prácticas como:
+- Validación de entradas del usuario.
+- Prevención de vulnerabilidades comunes.
+- Manejo seguro de datos sensibles y autenticación robusta.
 
 🔧 Actualmente enfocado en:
-- Fortalecer mis conocimientos en **Node.js**, **Java** y frameworks modernos como **Spring Boot**.
-- Participar en proyectos colaborativos de código abierto.
-- Mejorar mis habilidades en bases de datos relacionales y NoSQL.
+- Fortalecer mis conocimientos en **Node.js**, **Java**, **Spring Boot** y **React**.
+- Aprender más sobre arquitecturas escalables y diseño de APIs RESTful.
+- Contribuir en proyectos de **código abierto** y trabajar con equipos multidisciplinarios.
 
 ## 🧠 Habilidades Técnicas
 
@@ -19,7 +29,8 @@ Soy un desarrollador web con un fuerte interés en el desarrollo **Full Stack**.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ### 🔨 Backend
 
@@ -33,6 +44,7 @@ Soy un desarrollador web con un fuerte interés en el desarrollo **Full Stack**.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🛠 Herramientas y Entornos
 
@@ -43,6 +55,8 @@ Soy un desarrollador web con un fuerte interés en el desarrollo **Full Stack**.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🧩 Proyectos Destacados
 
