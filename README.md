@@ -58,12 +58,20 @@ Soy un desarrollador web con un fuerte interés en el desarrollo **Full Stack**,
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🧩 Proyectos Destacados
+🚀 Backend para Ecommerce
+Este proyecto es un backend RESTful construido con Java y Spring Boot. La arquitectura está diseñada bajo el paradigma hexagonal, lo que garantiza una separación clara entre la lógica de negocio y las dependencias externas. Se implementó una base de datos PostgreSQL, con un CRUD completo para diversas entidades. El enfoque principal ha sido la aplicación de buenas prácticas de desarrollo y una mejora continua en la funcionalidad y la calidad del código.
 
-- ✨ *Proyecto e-commerce* – Proyecto realizado con Node.js, MongoDB y Vue para simular una pagina de compra, con carrito de compra e inicio de sesiones para los diversos usuarios.
-  *https://github.com/DiegoSalamancaG/Proyecto07*
-- ⚙️ *To-Do List* – Proyecto de practica API Rest, utilizando Node.js y MySql para generar una pequeña lista de tareas pendientes y completadas.
-  *https://github.com/DiegoSalamancaG/pruebaTecnica*
+Repositorio: https://github.com/DiegoSalamancaG/BackendJavaSpringBoot
+
+✨ Proyecto Ecommerce Full-Stack
+Aplicación de ecommerce completa, que simula una tienda en línea. El backend se desarrolló con Node.js y Express, y utiliza MongoDB para la persistencia de datos. El frontend fue construido con el framework Vue.js, ofreciendo funcionalidades como carrito de compras, registro e inicio de sesión de usuarios. Este proyecto demuestra mi capacidad para desarrollar soluciones full-stack e integrar diferentes tecnologías de manera cohesiva.
+
+Repositorio: https://github.com/DiegoSalamancaG/Proyecto07
+
+⚙️ API de Tareas Pendientes (To-Do List)
+API RESTful de práctica con el objetivo de gestionar una lista de tareas. Utiliza Node.js como entorno de ejecución y MySQL como base de datos. El proyecto incluye las operaciones CRUD (Crear, Leer, Actualizar, Borrar) para manejar tareas pendientes y completadas, sirviendo como una demostración de mis habilidades en el desarrollo de APIs y la interacción con bases de datos relacionales.
+
+Repositorio: https://github.com/DiegoSalamancaG/pruebaTecnica
 
 ## 🎯 Objetivos Profesionales
 
